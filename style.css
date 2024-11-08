@@ -1,0 +1,33 @@
+*
+{
+    margin: 0 ;
+    padding: 0 ;
+    box-sizing: border-box ;
+}
+
+html {
+    margin: 1rem;
+    padding: 1rem;
+    text-align: justify;
+}
+.dark{
+    color: white;
+    background-color: black;
+}
+.light {
+    color: black;
+    background-color: white;
+}
+
+h1,h2,h3{
+    text-align: center;
+    text-decoration: underline;
+}
+.btnl {
+    background-color: rgb(64, 64, 220);
+    color: white;
+}
+.btnd {
+    background-color: rgb(222, 74, 123);    
+    color: black;
+}
